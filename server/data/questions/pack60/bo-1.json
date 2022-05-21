@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Hồ Chí Minh thí điểm xây dựng Mặt trận Việt Minh đầu tiên ở tỉnh nào?",
+    "answers": [
+      "Tuyên Quang ",
+      "Hà giang",
+      "Thái nguyên ",
+      "Cao Bằng"
+    ],
+    "correct": 3,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Trong Đại Hội Hội sinh viên Việt Nam lần thứ X được tổ chức tại Hà Nội, đại biểu đại diện duy nhất của trường ĐH CNTT, ĐHQG-HCM là ai ? ",
+    "answers": [
+      "Đ/c Phan Thuỳ Dương",
+      "Đ/c Võ Minh Thiện",
+      "Đ/c Hon Sen Sen",
+      "Đ/c Trương Quốc Dũng"
+    ],
+    "correct": 0,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Ngày 8/4/1975 một phi công của quân đội Sài Gòn phản chiến ném bom xuống Dinh Độc Lập. Hãy cho biết họ tên đầy đủ của người phi công này?",
+    "answers": [
+      "Phạm Tuân",
+      "Trần Đại Nghĩa",
+      "Nguyễn Văn Bảy",
+      "Nguyễn Thành Trung"
+    ],
+    "correct": 3,
+    "score": 20,
+    "time": 15
+  },
+  {
+    "question": "Khu vực thương mại tự do ASEAN được viết tắt là:",
+    "answers": [],
+    "correct": "AFTA",
+    "score": 20,
+    "time": 15,
+    "type": "statement"
+  }
+]

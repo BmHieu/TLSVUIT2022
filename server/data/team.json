@@ -1,0 +1,38 @@
+{
+  "doia": {
+    "matkhau": "1",
+    "ten": "Nguyễn Hữu</br>Khang",
+    "shortName": "H. Khang",
+    "diem": "0"
+  },
+  "doib": {
+    "matkhau": "2",
+    "ten": "Võ Thành</br>Trung",
+    "shortName": "T. Trung",
+    "diem": "0"
+  },
+  "doic": {
+    "matkhau": "3",
+    "ten": "Bùi Minh</br>Hiếu",
+    "shortName": "M. Hiếu",
+    "diem": "0"
+  },
+  "doid": {
+    "matkhau": "4",
+    "ten": "Trương Thảo</br>Tiên",
+    "shortName": "T. Tiên",
+    "diem": "0"
+  },
+  "doie": {
+    "matkhau": "5",
+    "ten": "Nguyễn Ngọc</br>Khánh",
+    "shortName": "N. Khánh",
+    "diem": "0"
+  },
+  "doif": {
+    "matkhau": "6",
+    "ten": "Huỳnh Ngọc</br>Trân",
+    "shortName": "N. Trân",
+    "diem": "0"
+  }
+}

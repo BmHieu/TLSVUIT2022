@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Tác phẩm Bình Ngô đại cáo được viết sau thắng lợi của cuộc khởi nghĩa nào sau đây?",
+    "answers": [
+      "Chống quân Minh xâm lược",
+      "Chống quân Thanh xâm lược",
+      "Chống quân Tống xâm lược",
+      "Chống quân Hán xâm lược"
+    ],
+    "correct": 0,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Chủ đề Công tác Hội năm học 2018-2019 là gì?",
+    "answers": [
+      "Năm sinh viên tình nguyện",
+      "Năm sinh viên 5 tốt",
+      "Nâng cao chất lượng tổ chức Hội sinh viên Việt Nam",
+      "Năm Sinh viên sáng tạo"
+    ],
+    "correct": 3,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Chiếc máy tính điện tử đầu tiên có tên gọi là:",
+    "answers": [
+      "Bàn tính",
+      "Pascaline",
+      "ENIAC",
+      "Mark I"
+    ],
+    "correct": 2,
+    "score": 20,
+    "time": 15
+  },
+  {
+    "question": "Ngay sau khi quyết định chọn chiến dịch Điện Biên Phủ là trận quyết chiến, chiến lược, ban đầu, Trung Ương Đảng đã xác đinh phương châm:",
+    "answers": [
+      "Đánh chắc, tiến chắc",
+      "Đánh nhanh, thắng nhanh",
+      "Chắc thắng mới đánh, không chắc thắng không đánh",
+      "Tất cả các phương án đều sai"
+    ],
+    "correct": 1,
+    "score": 20,
+    "time": 15
+  }
+]

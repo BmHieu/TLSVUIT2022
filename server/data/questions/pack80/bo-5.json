@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Ngày 7/5/2019 là ngày kỷ niệm bao nhiêu năm chiến thắng lịch sử Điện Biên Phủ?",
+    "answers": [],
+    "correct": "65",
+    "score": 10,
+    "time": 10,
+    "type": "statement"
+  },
+  {
+    "question": "“Nhanh chóng tạo ra ưu thế về binh lực và hỏa lực có thể áp đảo quân chủ lực của ta bằng chiến lược quân sự mới “tìm diệt”, cố giành lại thế chủ động trên chiến trường, đẩy lực lượng vũ trang của ta trở về phòng ngự, buộc ta phải phân tán nhỏ, hoặc rút về biên giới, làm cho chiến tranh tàn lụi dần” là âm mưu của Mỹ trong chiến lược quân sự nào?",
+    "answers": [
+      "Chiến tranh đơn phương",
+      "Chiến tranh đặc biệt",
+      "Chiến tranh cục bộ",
+      "Việt Nam hóa chiến tranh"
+    ],
+    "correct": 2,
+    "score": 20,
+    "time": 15
+  },
+  {
+    "question": "Di sản thiên nhiên nào của nước ta được UNESCO chính thức công nhận 2 lần về giá trị cảnh quan, giá trị địa chất, địa chất địa mạo vào năm 1994 và năm 2000:",
+    "answers": [
+      "Vịnh Hạ Long",
+      "Phong Nha – Kẻ Bàng",
+      "Thánh địa Mỹ Sơn",
+      "Rừng quốc gia Cúc Phương."
+    ],
+    "correct": 1,
+    "score": 20,
+    "time": 15
+  },
+  {
+    "question": "Trong đại hội Hội sinh viên Việt Nam lần X, Khẩu hiệu hành động nhiệm kỳ 2018 - 2023 là gì?",
+    "answers": [
+      "Sinh viên Việt Nam bản lĩnh, học tập, sáng tạo, tình nguyện, hội nhập, phát triển.",
+      "Sinh viên Việt Nam học tập, sáng tạo, tình nguyện, hội nhập, phát triển.",
+      "Sinh viên Việt Nam bản lĩnh, học tập, sáng tạo, tình nguyện, hội nhập, tử tế.",
+      "Sinh viên Việt Nam học tập, sáng tạo, tình nguyện, hội nhập, tử tế."
+    ],
+    "correct": 0,
+    "score": 30,
+    "time": 20
+  }
+]

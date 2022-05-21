@@ -1,0 +1,138 @@
+* {
+    font-size: 20px !important;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+#wrapper {
+    width: 1024px;
+    margin: 0 auto;
+    height: 100%;
+    position: relative;
+}
+#header {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+}
+
+#header .logo {
+    height: 120px;
+    float: left;
+}
+
+#header .right-logo {
+    height: 120px;
+}
+
+#content {
+    position: absolute;
+    top: 160px;
+    left: 0;
+    right: 0;
+    bottom: 50px;
+}
+
+#content-team{
+    position: absolute;
+    top: 170px;
+    left: 0;
+    right: 0;
+    bottom: 60px;
+    display: block;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 4px solid #007db8;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+
+
+.right-menu{
+    width: 230px;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 4px solid #007db8;
+    border-radius: 5px;
+    float: right;
+    position: relative;
+}
+
+#content .question-box {
+    width: 760px;
+    height: 100%;
+    display: block;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 4px solid #007db8;
+    border-radius: 5px;
+    float: left;
+    position: relative;
+}
+
+.question-box{
+    padding: 20px 40px;
+}
+
+.answer{
+    color: #0e4a86;
+}
+
+.answer > .input-group{
+    margin-bottom: 10px;
+}
+
+.questionBox-name, .question{
+    width: 100%;
+    text-align: left;
+    color: #0e4a86;
+}
+
+.questionBox-name{
+    padding: 0 10px;
+}
+
+.question{
+    padding: 5px 20px;
+    overflow: scroll !important;
+}
+
+.btn-group{
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+}
+.btn-submit, .btn-remove{
+    width: 150px;
+    float: right;
+    border-radius: 0;
+    color: #fff;
+    margin-left: 10px !important;
+}
+
+.btn-submit{
+    background-color: #1754c1;
+}
+.btn-remove{
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}
+
+.btn-submit:focus, .btn-submit:hover{
+    color: #fff;
+}
+
+.mb20{
+    margin-bottom: 20px;
+}
+
+#sizing-addon2{
+    min-width: 150px;
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Ở người, loại mạch nào là nơi xảy ra sự trao đổi chất với tế bào?",
+    "answers": [
+      "Mao mạch",
+      "Tĩnh mạch",
+      "Động mạch",
+      "Tất cả các phương án còn lại"
+    ],
+    "correct": 0,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Mary, who is sixteen years old, is four times as old as her brother. How old will Mary be when she is twice as old as her brother?",
+    "answers": [],
+    "correct": "24",
+    "score": 20,
+    "time":15,
+    "type": "statement"
+  },
+  {
+    "question": "Hoàng Thái tử Naruhito vừa lên ngôi Hoàng đế ở Nhật Bản với niên hiệu Reiwa (Lệnh Hòa) vào ngày tháng năm nào?",
+    "answers": [
+      "01/05/2019",
+      "30/04/2019",
+      "25/04/2019",
+      "09/05/2019"
+    ],
+    "correct": 0,
+    "score": 20,
+    "time":15
+  },
+  {
+    "question": "Chiến dịch nào đã mở đầu cuộc Tổng tiến công và nổi dậy mùa Xuân 1975?",
+    "answers": [
+      "Chiến dịch Tây Nguyên",
+      "Chiến dịch giải phóng Huế - Đà Nẵng",
+      "Chiến dịch Đường 14 - Phước Long",
+      "Chiến dịch Trường Sa và các đảo trên Biển Đông"
+    ],
+    "correct": 0,
+    "score": 30,
+    "time":20
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Chiến sĩ đầu tiên cắm lá cờ chiến thắng của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam trên nóc dinh Độc Lập vào ngày 30/4/1975 là ai?",
+    "answers": [
+      "Nguyễn Văn Kỷ",
+      "Lữ Văn Hỏa",
+      "Thái Bá Minh ",
+      "Bùi Quan Thuận"
+    ],
+    "correct": 3,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Chiến dịch tình nguyện Mùa hè xanh bắt đầu từ năm nào?",
+    "answers": [
+      "1994",
+      "1995",
+      "1996",
+      "1997"
+    ],
+    "correct": 3,
+    "score": 10,
+    "time":10
+  },
+  {
+    "question": "Ban Chấp hành Hội Sinh viên trường ĐH Công nghệ Thông tin ĐHQG-HCM nhiệm kỳ IV gồm bao nhiêu đồng chí?",
+    "answers": [],
+    "correct": "21",
+    "score": 20,
+    "time":15,
+    "type": "statement"
+  },
+  {
+    "question": "The man was an explorer who has discovered Cuba.  What is his name?",
+    "answers": [
+      "Christopher Columbus",
+      "Neil Armstrong",
+      "Fidel Castro",
+      "Amerigo Vespucci"
+    ],
+    "correct": 0,
+    "score": 20,
+    "time":15
+  }
+]

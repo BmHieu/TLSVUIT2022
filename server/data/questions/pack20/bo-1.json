@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Ngày Quốc tế Thiếu nhi là ngày tháng nào hằng năm?",
+    "answers": [],
+    "correct": "0106",
+    "score": 10,
+    "time": 10,
+    "type": "statement"
+  },
+  {
+    "question": "Trường Đại học Công nghệ Thông tin, ĐHQG-HCM có bao nhiêu Khoa?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 1,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Điền vào chỗ trống:</br>_____ ______ là tác giả của truyện Dế mèn phiêu lưu ký",
+    "answers": [],
+    "correct": "TÔ HOÀI",
+    "score": 10,
+    "time": 10,
+    "type": "statement"
+  },
+  {
+    "question": "The Avengers là một chuỗi các bộ phim của công ty sản xuất nổi tiếng nào nào?",
+    "answers": [
+      "DC Comics",
+      "Walt Disney",
+      "Marvel Studios",
+      "Big Hit Entertainment"
+    ],
+    "correct": 2,
+    "score": 10,
+    "time": 10
+  }
+]

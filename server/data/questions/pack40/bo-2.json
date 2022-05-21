@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Ngày 8/6/2019 sắp tới là ngày kỷ niệm bao nhiêu năm thành lập trường ĐH CNTT, ĐHQG-HCM?",
+    "answers": [],
+    "correct": "13",
+    "score": 10,
+    "time": 10,
+    "type": "statement"
+  },
+  {
+    "question": "Vị tổng thống cuối cùng của chính quyền Mĩ – Ngụy, đã đầu hàng vô điều kiện khi quân ta tiến vào Dinh Độc Lập?",
+    "answers": [
+      "Nguyễn Văn Thiệu",
+      "Ngô Đình Diệm",
+      "Dương Văn Minh",
+      "Trần Văn Hương"
+    ],
+    "correct": 2,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Điều lệ của Hội Sinh viên Việt Nam hiện nay có bao nhiêu ĐIỀU ?",
+    "answers": [],
+    "correct": "20",
+    "score": 10,
+    "time": 10,
+    "type": "statement"
+  },
+  {
+    "question": "Tại hội thảo giải thưởng du lịch ASEAN và lễ trao nhận giấy chứng nhận du lịch ASEAN năm 2018? Việt Nam có 3 địa danh được trao giải thưởng Thành phố du lịch sạch ASEAN đó là ?",
+    "answers": [
+      "Huế, Đà Nẳng, Đà Lạt",
+      "Đà Nẵng, Nha Trang, Hội An",
+      "Nha Trang, Hạ Long, Vũng Tàu",
+      "Vũng Tàu, Buôn Ma Thuột, Hạ Long"
+    ],
+    "correct": 0,
+    "score": 10,
+    "time": 10
+  }
+]

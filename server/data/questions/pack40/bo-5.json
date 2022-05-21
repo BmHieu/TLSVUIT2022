@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Website chính thức của Đoàn thanh niên - Hội sinh viên trường ĐHCNTT, ĐHQG-HCM có địa chỉ là gì?",
+    "answers": [
+      "doanhoi.uit.edu.vn",
+      "tuoitre.uit.edu.vn",
+      "doanthanhnien.uit.edu.vn",
+      "vpdoanhoi.uit.edu.vn"
+    ],
+    "correct": 1,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Chính quyền cách mạng ở Nghệ - Tĩnh được gọi là chính quyền Xô viết vì:",
+    "answers": [
+      "Chính quyền của liên minh công nông.",
+      "Chính quyền do giai cấp công nhân lãnh đạo",
+      "Hình thức của chính quyền vô sản",
+      "Hình thức chính quyền theo kiểu nhà nước mới"
+    ],
+    "correct": 0,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Đại hội toàn quốc Liên đoàn thanh niên Việt Nam lần thứ nhất tại căn cứ Việt Bắc đã quyết định lấy ngày tháng nào hàng năm là ngày truyền thống học sinh, sinh viên Việt Nam",
+    "answers": [],
+    "correct": "0901",
+    "score": 10,
+    "time": 10,
+    "type": "statement"
+  },
+  {
+    "question": "Các nước muốn gia nhập vào ASEAN phải thỏa mãn tất cả các tiêu chí, trừ tiêu chí nào sau đây?",
+    "answers": [
+      "Có vị trí nằm trong khu vực ĐNÁ",
+      "Được tất cả các nước thành viên ASEAN công nhận ",
+      "Có thể chế phù hợp ",
+      "Chấp nhận sự ràng buộc và tuân thủ Hiến chương"
+    ],
+    "correct": 2,
+    "score": 10,
+    "time": 10
+  }
+]

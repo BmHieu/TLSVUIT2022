@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Giải thưởng cao quý nào được Trung ương Hội Sinh viên trao tặng vào ngày truyền thống Học sinh, Sinh viên là gì?",
+    "answers": [
+      "Sao tháng giêng",
+      "Lý Tự Trọng",
+      "Bồ Câu Trắng",
+      "Cả 3 phương án trên"
+    ],
+    "correct": 0,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Trong chiến dịch Điện Biên Phủ, trận đánh nào được coi là thắng trận mở màn của quân đội ta?",
+    "answers": [
+      "Trận đồi Him Lam",
+      "Trận đồi Độc Lập",
+      "Trận đồi A1",
+      "Trận Bản Kéo"
+    ],
+    "correct": 0,
+    "score": 20,
+    "time": 15
+  },
+  {
+    "question": "Vì kích thước lớn lại được bao phủ bởi một lớp mây dày đặc chứa nước đá phản chiếu ánh sáng Mặt Trời nên từ nhiều thế kỷ trước nhiều nhà thiên văn cho đó là ngôi sao tương tự Mặt Trời. Đó là hành tinh nào ?",
+    "answers": [
+      "Sao Thổ",
+      "Sao Mộc",
+      "Sao Hỏa",
+      "Sao Thiên Vương"
+    ],
+    "correct": 1,
+    "score": 20,
+    "time": 15
+  },
+  {
+    "question": "Chiến dịch Hành trình đỏ xuyên Việt nâng cao nhận thức của người dân về hoạt động hiến máu tình nguyện cũng như truyền thông nâng cao nhận thức của cộng đồng về căn bệnh nào ?",
+    "answers": [
+      "Bệnh tan máu bẩm sinh",
+      "Bệnh ung thư bạch cầu",
+      "Bệnh đa u tủy",
+      "Thiếu máu"
+    ],
+    "correct": 0,
+    "score": 30,
+    "time": 20
+  }
+]

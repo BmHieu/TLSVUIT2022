@@ -1,0 +1,287 @@
+* {
+    font-size: 12px;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: url(../background2.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.bg-red {
+    background-color: #c13238!important;
+}
+
+.bg-blue {
+    background-color: #007db8!important;
+}
+
+.bg-green {
+    background-color: green!important;
+}
+
+#wrapper {
+    width: 1100px;
+    margin: 0 auto;
+    height: 100%;
+    position: relative;
+}
+
+#content {
+    position: absolute;
+    top: 160px;
+    left: 0;
+    right: 0;
+    bottom: 310px;
+}
+
+#content .question-list {
+    position: absolute;
+    top: 10px;
+    width: 30px;
+    left: -30px;
+}
+
+#content .question-list li {
+    list-style-type: none;
+    padding: 5px;
+    display: block;
+    margin: 10px 0;
+    background-color: #007db8;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+
+#content .question-list li.active {
+    background-color: #c13238;
+}
+
+#content .question-box {
+    width: 1000px;
+    height: 100%;
+    display: block;
+    border: 4px solid #72fbfd;
+    border-radius: 5px;
+    float: left;
+    position: relative;
+}
+
+#question-content {
+    padding: 20px;
+    color: #feffff;
+}
+
+#question-content img {
+    max-width: 100%;
+    margin: 5px auto;
+}
+
+#question-content .question-number,
+#question-content .question {
+    font-size: 40px;
+}
+
+.answers,
+.answersStatement{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+#question-content ol li:first-letter{
+    text-transform: uppercase;
+}
+
+#question-content .answers li,
+.answersStatement {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+#question-content .answers .correct,
+.answersStatement.correct{
+    color: red;
+    font-weight: bold;
+}
+
+.answersStatement{
+    text-transform: uppercase;
+}
+
+.result-box {
+    width: 392px;
+    position: absolute;
+    right: 0;
+    top: 220px;
+}
+
+.result-box .title {
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+.hope-star {
+    position: absolute;
+    left: 45px;
+    top: 70px;
+    height: 25%;
+    display: none;
+}
+
+.countdown {
+    text-align: center;
+    line-height: 100px;
+    color: #feffff;
+    position: absolute;
+    right: 120px;
+    top: 90px;
+    font-weight: 900;
+    font-size: 70px;
+}
+
+#startup {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+#startup .startup-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    text-align: center;
+    margin-left: -150px;
+    margin-top: -50px;
+    color: #007db8;
+}
+
+#result-list {
+    position: absolute;
+    top: 50px;
+    left: 5px;
+    right: 0px;
+    bottom: 0;
+    color: #72fafd;
+}
+
+#result-list li {
+    list-style-type: none;
+    display: block;
+    height: 100px;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+#result-list li.doia,
+#result-list li.doib,
+#result-list li.doic,
+#result-list li.doid,
+#result-list li.doie,
+#result-list li.doif {
+    background: url(../answer.png) no-repeat;
+}
+
+#result-list li.default,
+#result-list li.disabled {
+    color: #666!important;
+}
+
+#result-list li .score,
+#result-list li .team-name {
+    position: absolute;
+    top: 50%;
+    margin-top: -50px;
+    vertical-align: middle;
+    line-height: 100px;
+    font-size: 30px;
+    left: 20px;
+}
+
+#result-list li .score {
+    left: auto;
+    right: 20px;
+}
+
+#footer {
+    position: absolute;
+    left: 350px;
+    right: 0;
+    bottom: 80px;
+    max-width: 2000px;
+    margin: 0 auto;
+}
+
+.score-board {
+}
+
+.score-board li, .listname li {
+    display: inline-block;
+    list-style-type: none;
+    position: relative;
+    width: 12%;
+}
+
+.score-board li .score {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 80px;
+    height: 60px;
+    line-height: 60px;
+    vertical-align: middle;
+    color: #fff;
+    margin-left: -40px;
+    margin-top: -30px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.listname .team-name {
+    font-size: 23px;
+    bottom: -5px;
+    text-align: center;
+    font-weight: 100;
+    color: #72fafd;
+}
+
+.polygon {
+    position: relative;
+    width: 100px;
+    height: 160px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    margin: 0 auto;
+}
+.polygon.doia{
+    background-image: url('../images/doia.png');
+}
+.polygon.doib{
+    background-image: url('../images/doib.png');
+}
+.polygon.doic{
+    background-image: url('../images/doic.png');
+}
+.polygon.doid{
+    background-image: url('../images/doid.png');
+}
+.polygon.doie{
+    background-image: url('../images/doie.png');
+}
+.polygon.doif{
+    background-image: url('../images/doif.png');
+}

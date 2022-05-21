@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Ngày 13 tháng 10 năm 2018, Hội Sinh viên Trường Đại học Công nghệ Thông tin – ĐHQG – TP.HCM đã tổ chức Đại hội Đại biểu Hội Sinh viên Trường, lần thứ IV, nhiệm kỳ 2018 – 2020, với chủ đề là gì?",
+    "answers": [
+      "Sinh viên Trường Đại học Công nghệ Thông tin – Tử tế – Tài năng – Tiến bộ",
+      "Sinh viên Trường Đại học Công nghệ Thông tin - Tài năng - Tự Tin - Bản lĩnh",
+      "Sinh viên UIT - Tử tế - Tài năng - Bản lĩnh",
+      "Sinh viên UIT - Hội nhập - Tự Tin - Bản lĩnh"
+    ],
+    "correct": 0,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Điền vào chỗ trống:</br>Xạ thủ Hoàng Xuân Vinh giúp thể thao Việt Nam lần đầu tiên trong lịch sử giành Huy chương vàng tại Olympic, khi chiến thắng ở nội dung ............. với 202,5 điểm.",
+    "answers": [
+      "10m súng ngắn hơi nam",
+      "50m súng ngắn hơi nam",
+      "25m súng ngắn bắn nhanh nam",
+      "50m súng trường hơi nam"
+    ],
+    "correct": 0,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Điền vào chỗ trống:</br>Ở nước ta, tỉnh _____  _____ giáp với cả Lào và Campuchia.",
+    "answers": [],
+    "correct": "KON TUM",
+    "score": 20,
+    "time": 15,
+    "type": "statement"
+  },
+  {
+    "question": "'Biết rồi, khổ lắm, nói mãi' là câu nói nổi tiếng được nhân vật nào nhắc đi nhắc lại nhiều lần trong tiểu thuyết 'Số đỏ' của nhà văn Vũ Trọng Phụng?",
+    "answers": [
+      "Xuân Tóc Đỏ",
+      "Bà Phó Đoan",
+      "Cụ Cố Hồng",
+      "Ông Phán mọc sừng"
+    ],
+    "correct": 2,
+    "score": 10,
+    "time": 10
+  }
+]

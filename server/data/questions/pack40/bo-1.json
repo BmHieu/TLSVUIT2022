@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Năm 2011, nước ta kỷ niệm bao nhiêu năm ngày Bác Hồ ra đi tìm đường cứu nước?",
+    "answers": [],
+    "correct": "100",
+    "score": 10,
+    "time": 10,
+    "type": "statement"
+  },
+  {
+    "question": "Giải quần vợt nào có lịch sử lâu đời nhất thế giới?",
+    "answers": [
+      "ATP – World Tour Finals",
+      "Davis Cup",
+      "ATP – Challenger Tour",
+      "Wimbledon"
+    ],
+    "correct": 3,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Chiến thắng Điện Biên Phủ buộc Pháp phải ngồi vào bàn đàm phán công nhận chủ quyền của Việt Nam thông qua hiệp định gì?",
+    "answers": [
+      "Hiệp định Geneve",
+      "Hiệp định Paris",
+      "Hiệp định Fontainebleau",
+      "Hiệp ước Versailles"
+    ],
+    "correct": 0,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Ngày 9/1/1950, Đoàn Thanh niên cứu quốc và Đoàn học sinh-sinh viên Sài Gòn - Chợ Lớn đã vận động và tổ chức hơn 2.000 HSSV và 7.000 nhân dân Sài Gòn - Chợ Lớn biểu tình đòi đảm bảo an ninh cho HSSV, trả tự do cho những sinh viên-học sinh bị bắt và mở lại trường học. Một Học sinh ưu tú đã ngã xuống trong cuộc đấu tranh này, đó là ai?",
+    "answers": [
+      "Quách Thị Trang",
+      "Trần Văn Ơn",
+      "Lê Đình Dụ",
+      "Ngô Kha"
+    ],
+    "correct": 1,
+    "score": 10,
+    "time": 10
+  }
+]

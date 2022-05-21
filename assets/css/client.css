@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 10px 30px!important;
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+}
+
+.header {
+    padding: 0 10px;
+    text-align: center;
+    position: relative;
+}
+
+.header .team-name {
+    color: #fff;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 14px;
+}
+
+.logo {
+    height: 25%;
+    margin: 10px auto;
+}
+
+.select-box {
+    width: 100%;
+    height: 80%;
+}
+
+.select-box .select-item {
+    width: 50%;
+    height: 40%;
+    display: inline-block;
+    float: left;
+    position: relative;
+    text-align: center;
+    color: #fff;
+}
+
+.select-box .select-item > span {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    bottom: 20px;
+    background-color: #17a2b8;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+
+.select-box .select-item.selected > span {
+    background-color: #007db8;
+    color: #fff;
+}
+
+.select-box .select-item > span:before {
+    font-size: 80px;
+    content: "A";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    margin-left: -50px;
+    height: 100px;
+    margin-top: -50px;
+}
+
+.select-box .select-item > span.select-a:before {
+    content: "A";
+}
+.select-box .select-item > span.select-b:before {
+    content: "B";
+}
+.select-box .select-item > span.select-c:before {
+    content: "C";
+}
+.select-box .select-item > span.select-d:before {
+    content: "D";
+}
+
+.login {
+    width: 500px;
+    margin: 10px auto;
+}
+
+.login .form-control label {
+    display: block;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.login .form-control {
+    margin: 15px 0;
+}
+.login .form-control input {
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 4px;
+    width: 100%;
+    font-size: 16px;
+}
+
+.login .form-control .btn-login {
+    background-color: #007db8;
+    color: #fff;
+    border-radius: 4px;
+    border: 1px solid #96caee;
+    padding: 10px 30px;
+    font-size: 16px;
+    width: 100%;
+}
+
+.login .form-control .btn-login:focus {
+    outline: none;
+}
+
+@media screen and (max-width: 800px) {
+    body {
+        padding: 10px;
+    }
+
+    .login {
+        width: 90%;
+    }
+
+    .select-box .select-item > span {
+        top: 10px;
+        left: 10px;
+        right: 10px;
+        bottom: 10px;
+    }
+}

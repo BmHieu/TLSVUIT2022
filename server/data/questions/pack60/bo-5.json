@@ -1,0 +1,50 @@
+[
+  {
+    "question": "BIOS được xem như là chương trình được chạy đầu tiên khi máy tính khởi động. Vậy tên đầy đủ của BIOS là gì?",
+    "answers": [
+      "Basic input output system",
+      "Basic inbox outbox system",
+      "Between input output system",
+      "Between input output service"
+    ],
+    "correct": 0,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Con sông nào dài nhất Châu Á?",
+    "answers": [
+      "Sông Trường Giang",
+      "Sông Hoàng Hà",
+      "Sông Mê Công",
+      "Sông Ấn"
+    ],
+    "correct": 0,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Ngày 16 tháng 8 năm 1945, Tổng bộ Việt Minh triệu tập Đại hội quốc dân tại Tuyên Quang cử ra Ủy ban dân tộc giải phóng tức Chính phủ lâm thời, do Hồ Chí Minh làm chủ tịch. Hãy cho biết địa điểm cụ thể diễn ra Đại hội:",
+    "answers": [
+      "Đình Tân Trào",
+      "Đình Hồng Thái",
+      "Lán Nà Lừa",
+      "Hang Bòng"
+    ],
+    "correct": 0,
+    "score": 20,
+    "time":15
+  },
+  {
+    "question": "Với lòng yêu nước nồng nàn và căm thù giặc Mỹ cao độ, vào năm 1964 đã có một phong trào mà chỉ sau một tháng phát động thì có 1,5 triệu thanh niên, học sinh, sinh viên đăng ký tham gia. Đó là phong trào gì?",
+    "answers": [
+      "Phong trào “5 xung phong”",
+      "Phong trào “2 tốt”",
+      "Phong trào “3 sẵn sàng”",
+      "Phong trào Sinh viên 5 tốt"
+    ],
+    "correct": 2,
+    "score": 20,
+    "time":15
+  }
+]
