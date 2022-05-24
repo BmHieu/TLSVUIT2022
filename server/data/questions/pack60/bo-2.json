@@ -1,46 +1,46 @@
 [
   {
-    "question": "Ngày 13 tháng 10 năm 2018, Hội Sinh viên Trường Đại học Công nghệ Thông tin – ĐHQG – TP.HCM đã tổ chức Đại hội Đại biểu Hội Sinh viên Trường, lần thứ IV, nhiệm kỳ 2018 – 2020, với chủ đề là gì?",
+    "question": "Khi tập động tác Plank, nhóm cơ nào được tác động lớn nhất?",
     "answers": [
-      "Sinh viên Trường Đại học Công nghệ Thông tin – Tử tế – Tài năng – Tiến bộ",
-      "Sinh viên Trường Đại học Công nghệ Thông tin - Tài năng - Tự Tin - Bản lĩnh",
-      "Sinh viên UIT - Tử tế - Tài năng - Bản lĩnh",
-      "Sinh viên UIT - Hội nhập - Tự Tin - Bản lĩnh"
+      "Cơ tay",
+      "Cơ ngực",
+      "Cơ bụng",
+      "Cơ mông"
     ],
-    "correct": 0,
+    "correct": 2,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Điền vào chỗ trống:</br>Xạ thủ Hoàng Xuân Vinh giúp thể thao Việt Nam lần đầu tiên trong lịch sử giành Huy chương vàng tại Olympic, khi chiến thắng ở nội dung ............. với 202,5 điểm.",
+    "question": "Our country has more than 4600 km of land borders, bordering with which countries?",
     "answers": [
-      "10m súng ngắn hơi nam",
-      "50m súng ngắn hơi nam",
-      "25m súng ngắn bắn nhanh nam",
-      "50m súng trường hơi nam"
+      "China, Thailand, Laos",
+      "China, Thailand, Laos, Myanmar",
+      "China, Laos, Campodia",
+      "China, Laos, Campodia, Myanmar"
     ],
-    "correct": 0,
+    "correct": 2,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Điền vào chỗ trống:</br>Ở nước ta, tỉnh _____  _____ giáp với cả Lào và Campuchia.",
+    "question": "Một nhóm bạn thân gồm Toàn, Hiếu, Tiên, Phong, Phúc được mời đi dự tiệc. Năm bạn này muốn ngồi vào một bàn dài vừa đủ 5 ghế ngồi, hỏi có bao nhiêu cách sắp xếp vị trí ngồi, biết rằng 3 bạn Toàn, Hiếu, Tiên luôn ngồi gần nhau?",
     "answers": [],
-    "correct": "KON TUM",
+    "correct": "36",
     "score": 20,
     "time": 15,
     "type": "statement"
   },
   {
-    "question": "'Biết rồi, khổ lắm, nói mãi' là câu nói nổi tiếng được nhân vật nào nhắc đi nhắc lại nhiều lần trong tiểu thuyết 'Số đỏ' của nhà văn Vũ Trọng Phụng?",
+    "question": "Năm Canh Tuất niên hiệu Thuận Thiên thứ nhất, Lý Công Uẩn đã viết bài \"Chiếu dời đô\" bày tỏ ý định dời đô từ ...... về thành ...... ",
     "answers": [
-      "Xuân Tóc Đỏ",
-      "Bà Phó Đoan",
-      "Cụ Cố Hồng",
-      "Ông Phán mọc sừng"
+      "Hoa Lư - Đại La ",
+      "Hoa Lư - Thăng Long ",
+      "Bắc Hà - Đại La ",
+      "Bắc Hà - Thăng Long"
     ],
-    "correct": 2,
-    "score": 10,
-    "time": 10
+    "correct": 0,
+    "score": 20,
+    "time": 15
   }
 ]

@@ -1,46 +1,46 @@
 [
   {
-    "question": "Ở người, loại mạch nào là nơi xảy ra sự trao đổi chất với tế bào?",
+    "question": "Vòng chung kết U23 châu Á năm 2018, nơi các cầu thủ Việt Nam đã tạo nên kỳ tích khi vào đến trận chung kết, được diễn ra ở thành phố nào của Trung Quốc?",
     "answers": [
-      "Mao mạch",
-      "Tĩnh mạch",
-      "Động mạch",
-      "Tất cả các phương án còn lại"
+      "Thượng Hài",
+      "Thường Châu",
+      "Bắc Kinh",
+      " Quảng Đông"
     ],
-    "correct": 0,
+    "correct": 1,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Mary, who is sixteen years old, is four times as old as her brother. How old will Mary be when she is twice as old as her brother?",
-    "answers": [],
-    "correct": "24",
+    "question": "Hãy cho biết kết quả của đoạn code sau: <br> #include &#60;iostream&#62;    <br>using namespace std;        <br>int main(){      <br>        cout << sizeof(unsigned);     <br>        return 0;     <br>}",
+    "answers": [
+      "4",
+      "8",
+      "Lỗi biên dịch",
+      "Lỗi thực thi"
+    ],
+    "correct": 0,
     "score": 20,
-    "time":15,
+    "time": 15,
     "type": "statement"
   },
   {
-    "question": "Hoàng Thái tử Naruhito vừa lên ngôi Hoàng đế ở Nhật Bản với niên hiệu Reiwa (Lệnh Hòa) vào ngày tháng năm nào?",
+    "question": "Which bridge in Viet Nam was admired by The Guardian as \"The world's most impressive pedestrians' bridge\" in 2018?",
     "answers": [
-      "01/05/2019",
-      "30/04/2019",
-      "25/04/2019",
-      "09/05/2019"
+      "My Thuan Bridge, Vinh Long Province",
+      "Golden Bridge, Da Nang City",
+      "Koi Bridge, Quang Ninh Province",
+      "Long Bien Bridge, Ha Noi"
     ],
-    "correct": 0,
+    "correct": 1,
     "score": 20,
-    "time":15
+    "time": 15
   },
   {
-    "question": "Chiến dịch nào đã mở đầu cuộc Tổng tiến công và nổi dậy mùa Xuân 1975?",
-    "answers": [
-      "Chiến dịch Tây Nguyên",
-      "Chiến dịch giải phóng Huế - Đà Nẵng",
-      "Chiến dịch Đường 14 - Phước Long",
-      "Chiến dịch Trường Sa và các đảo trên Biển Đông"
-    ],
-    "correct": 0,
+    "question": "Có bao nhiêu chữ số 1 trong dãy số tự nhiên từ 1 đến 100 ?",
+    "answers": [],
+    "correct": "21",
     "score": 30,
-    "time":20
+    "time": 20
   }
 ]

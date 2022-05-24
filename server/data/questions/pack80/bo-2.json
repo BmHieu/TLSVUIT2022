@@ -1,50 +1,45 @@
 [
   {
-    "question": "Nhà Hậu Lê được thành lập sau thắng lợi của cuộc khởi nghĩa nào?",
+    "question": "Theo kinh nghiệm canh tác của người xưa, yếu tố nào là quan trọng nhất trong việc trồng lúa?",
     "answers": [
-      "Lam Sơn",
-      "Yên Bái",
-      "Tây Sơn",
-      "Nam Kỳ"
+      "Sự cần cù",
+      "Phân bón",
+      "Nước",
+      "Giống"
     ],
-    "correct": 0,
+    "correct": 2,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Tổng cộng thời gian xây dựng của nhà thờ Đức Bà Paris là bao nhiêu năm?",
+    "question": "Mỏ vàng Bồng Miêu - một trong những mỏ vàng lớn nhất nước ta thuộc tỉnh nào?",
     "answers": [
-      "152 năm",
-      "162 năm",
-      "172 năm",
-      "182 năm"
+      "Quảng Ninh",
+      "Quảng Nam",
+      "Quảng Bình",
+      "Quảng Trị"
     ],
-    "correct": 3,
+    "correct": 1,
     "score": 20,
     "time": 15
   },
   {
-    "question": "Đường bờ biển của nước ta dài 3260 km, kéo dài từ:",
-    "answers": [
-      "Tỉnh Quang Ninh đến tỉnh Cà Mau",
-      "Tỉnh Lạng Sơn đế tỉnh Cà Mau",
-      "Tỉnh lạng Sơn đến tỉnh Kiên Giang",
-      "Tỉnh Quảng Ninh đến tỉnh Kiên Giang"
-    ],
-    "correct": 3,
+    "question": "Một cuộc thi Thủ Lĩnh Sinh Viên gồm 6 người Nga, Hiếu, Phong, Thắng, Khang, Trang, được chia thành 3 cặp thi kiến thức chung kết TLSV2022. Biết rằng Nga thi với Thắng, Phong không cùng thi với Khang, Hiếu không cùng thi với Phong, vậy Khang cùng thi với ai?",
+    "answers": [],
+    "correct": "Hiếu",
     "score": 20,
-    "time":15
+    "time": 15
   },
   {
-    "question": "Năm 1961, Ban cán sự sinh viên học sinh Sài Gòn đã thành lập một đội quân dũng cảm do anh Lê Hồng Tư và Hà Văn Hiền lãnh đạo, ngay trận ra quân đầu tiên, đội đã lập được thành tích là tiêu diệt tên William Thomas – chuyên viên cao cấp không quân Mỹ.  Đó là đội quân nào?",
+    "question": "Hãy cho biết kết quả của đoạn code sau?<br> #include &#60;iostream&#62;   <br>using namespace std;    <br>int main(){      <br>char ch1{75};       <br>cout << ch1;      <br>    return 0;      <br>}",
     "answers": [
-      "Đội vũ trang quyết tử",
-      "Lực lượng thanh niên xung phong",
-      "Đội Bát Sắt",
-      "Đội quân Cảm tử"
+      "K",
+      "P",
+      "J",
+      "Lỗi biên dịch"
     ],
     "correct": 0,
     "score": 30,
-    "time":20
+    "time": 20
   }
 ]

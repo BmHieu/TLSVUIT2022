@@ -1,40 +1,50 @@
 [
   {
-    "question": "Sự ra đời của nền giáo dục dân tộc được đánh dấu bằng sự kiện: ",
+    "question": "Ai là vận động viên giành được nhiều Huy chương vàng Olympic nhất lịch sử?",
     "answers": [
-      "Hoàn chỉnh các kì thi năm 1396",
-      "Việc dựng bia tiến sĩ năm 1484",
-      "Tổ chức khoa thi đầu tiên năm 1075",
-      "Lập Văn miếu năm 1070"
+      "Usain Bolt",
+      "Peter Parker",
+      "Michael Phelps",
+      "Harry Maguire"
     ],
     "correct": 2,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Theo điều lệ Hội Sinh viên Việt Nam, Đại hội đại biểu cấp Trường, Liên chi Hội được tổ chức: ",
+    "question": "Các chữ cái trên phím \"Esc\" là viết tắt cho từ gì?",
     "answers": [
-      "3 năm 1 lần",
-      "4 năm 1 lần",
-      "5 năm 1 lần",
-      "5 năm 2 lần"
+      "Escalate",
+      "Escribe",
+      "Escrow",
+      "Escape"
     ],
     "correct": 3,
     "score": 10,
     "time": 10
   },
   {
-    "question": "The  .......... is a piece of cloth used as a symbol of a country or as a signal?",
-    "answers": [],
-    "correct": "flag",
+    "question": "Green Summer Volunteer ....... is the name of a volunteer ....... for students, organized by Vietnam National Union of Students of Ho Chi Minh City.",
+    "answers": [
+      "Activity chain",
+      "Program",
+      "Campaign",
+      "Event"
+    ],
+    "correct": 2,
     "score": 10,
     "time": 10,
     "type": "statement"
   },
   {
-    "question": "Đảng Cộng Sản Việt Nam ra đời trên cơ sở hợp nhất bao nhiêu tổ chức chính trị?",
-    "answers": [],
-    "correct": "3",
+    "question": "Tulip là quốc hoa của đất nước nào?",
+    "answers": [
+      "Nhật bản",
+      "Hà Lan",
+      "Hàn Quốc",
+      "Bồ Đào Nha"
+    ],
+    "correct": 1,
     "score": 10,
     "time": 10,
     "type": "statement"

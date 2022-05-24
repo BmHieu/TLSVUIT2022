@@ -7,9 +7,10 @@ $teamData = json_decode(file_get_contents('server/data/team.json'));
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
-    <title>Thủ lĩnh Sinh viên UIT 2019</title>
+    <title>Thủ lĩnh Sinh viên UIT 2022</title>
     <link rel="stylesheet" href="assets/css/style.css"/>
     <link rel="stylesheet" href="assets/css/hexagon.css"/>
+	<link rel="icon" type="image/x-icon" href="assets/images/Logo-Leader_Green.png">
 </head>
 <body>
 <img src="./assets/images/hope-star.gif" class="hope-star" />
@@ -155,10 +156,6 @@ $teamData = json_decode(file_get_contents('server/data/team.json'));
                 <span class="team-name"></span>
                 <span class="score"></span>
             </li>
-            <li class="default">
-                <span class="team-name"></span>
-                <span class="score"></span>
-            </li>
         </ul>
     </div>
 </div>
@@ -200,12 +197,6 @@ $teamData = json_decode(file_get_contents('server/data/team.json'));
 
             <div id="score-doie" class="score">0</div>
         </li>
-        <li>
-            <div class="polygon doif">
-                <span></span>
-            </div>
-            <div id="score-doif" class="score">0</div>
-        </li>
 
     </ul>
     <ul class="listname">
@@ -223,9 +214,6 @@ $teamData = json_decode(file_get_contents('server/data/team.json'));
         </li>
         <li>
             <div class="team-name doie"><?php echo $teamData->doie->ten ?></div>
-        </li>
-        <li>
-            <div class="team-name doif"><?php echo $teamData->doif->ten ?></div>
         </li>
     </ul>
 </div>

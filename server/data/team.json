@@ -1,38 +1,32 @@
 {
-  "doia": {
-    "matkhau": "1",
-    "ten": "Nguyễn Hữu</br>Khang",
-    "shortName": "H. Khang",
-    "diem": "0"
-  },
-  "doib": {
-    "matkhau": "2",
-    "ten": "Võ Thành</br>Trung",
-    "shortName": "T. Trung",
-    "diem": "0"
-  },
-  "doic": {
-    "matkhau": "3",
-    "ten": "Bùi Minh</br>Hiếu",
-    "shortName": "M. Hiếu",
-    "diem": "0"
-  },
-  "doid": {
-    "matkhau": "4",
-    "ten": "Trương Thảo</br>Tiên",
-    "shortName": "T. Tiên",
-    "diem": "0"
-  },
-  "doie": {
-    "matkhau": "5",
-    "ten": "Nguyễn Ngọc</br>Khánh",
-    "shortName": "N. Khánh",
-    "diem": "0"
-  },
-  "doif": {
-    "matkhau": "6",
-    "ten": "Huỳnh Ngọc</br>Trân",
-    "shortName": "N. Trân",
-    "diem": "0"
-  }
+    "doia": {
+        "matkhau": "1",
+        "ten": "Nguy\u1ec5n Th\u1ecb<\/br>Ng\u1ecdc Nga",
+        "shortName": "N. Nga",
+        "diem": "0"
+    },
+    "doib": {
+        "matkhau": "2",
+        "ten": "Ph\u1ea1m Th\u1ecb<\/br>Th\u00f9y Trang",
+        "shortName": "T. Trang",
+        "diem": "0"
+    },
+    "doic": {
+        "matkhau": "3",
+        "ten": "L\u00ea Gia<\/br>Giang",
+        "shortName": "G. Khang",
+        "diem": "0"
+    },
+    "doid": {
+        "matkhau": "4",
+        "ten": "Danh Nguy\u1ec5n<\/br>Th\u00e0nh Th\u1eafng",
+        "shortName": "T. Th\u1eafng",
+        "diem": "0"
+    },
+    "doie": {
+        "matkhau": "5",
+        "ten": "L\u00fd Gia<\/br>Hi\u1ebfu",
+        "shortName": "G. Hi\u1ebfu",
+        "diem": "0"
+    }
 }

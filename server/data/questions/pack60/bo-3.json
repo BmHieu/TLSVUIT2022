@@ -1,46 +1,51 @@
 [
   {
-    "question": "Chiến sĩ đầu tiên cắm lá cờ chiến thắng của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam trên nóc dinh Độc Lập vào ngày 30/4/1975 là ai?",
+    "question": "Giấy bạc dùng để bọc thức ăn là một bản mỏng làm bằng kim loại gì?",
     "answers": [
-      "Nguyễn Văn Kỷ",
-      "Lữ Văn Hỏa",
-      "Thái Bá Minh ",
-      "Bùi Quan Thuận"
+      "Ag",
+      "Zn",
+      "Al",
+      "Pb"
+    ],
+    "correct": 2,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Nước ta có bao nhiêu vùng kinh tế?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
     ],
     "correct": 3,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Chiến dịch tình nguyện Mùa hè xanh bắt đầu từ năm nào?",
+    "question": "Khẩu hiệu của ASEAN là gì?",
     "answers": [
-      "1994",
-      "1995",
-      "1996",
-      "1997"
+      "Một tầm nhìn, một cộng đồng, một khu vực",
+      "Một tầm nhìn, một bản sắc, một cộng đồng",
+      "Một cộng đồng, một tầm nhìn, một tương lai",
+      "Một cộng đồng, một bản sắc, một tương lai"
     ],
-    "correct": 3,
-    "score": 10,
-    "time":10
-  },
-  {
-    "question": "Ban Chấp hành Hội Sinh viên trường ĐH Công nghệ Thông tin ĐHQG-HCM nhiệm kỳ IV gồm bao nhiêu đồng chí?",
-    "answers": [],
-    "correct": "21",
+    "correct": 1,
     "score": 20,
-    "time":15,
+    "time": 15,
     "type": "statement"
   },
   {
-    "question": "The man was an explorer who has discovered Cuba.  What is his name?",
+    "question": "Thế vận hội Olympic đầu tiên được tổ chức ở nước nào?",
     "answers": [
-      "Christopher Columbus",
-      "Neil Armstrong",
-      "Fidel Castro",
-      "Amerigo Vespucci"
+      "Ấn Độ",
+      "Tây Ban Nha",
+      "Ai Cập",
+      "Hy Lạp"
     ],
-    "correct": 0,
+    "correct": 3,
     "score": 20,
-    "time":15
+    "time": 15
   }
 ]

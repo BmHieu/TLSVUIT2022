@@ -1,50 +1,50 @@
 [
   {
-    "question": "BIOS được xem như là chương trình được chạy đầu tiên khi máy tính khởi động. Vậy tên đầy đủ của BIOS là gì?",
+    "question": "Nếu giảm cả tử và mẫu của một phân số xuống một nửa, ta được một phân số mới có giá trị như thế nào với phân số đã cho?",
     "answers": [
-      "Basic input output system",
-      "Basic inbox outbox system",
-      "Between input output system",
-      "Between input output service"
+      "Tăng 1/4 lần",
+      "Giảm 1/4 lần",
+      "Tăng 2 lần",
+      "Không thay đổi"
     ],
-    "correct": 0,
+    "correct": 3,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Con sông nào dài nhất Châu Á?",
+    "question": "Một trong những trận chiến khốc liệt nhất lịch sử Việt Nam giành lại Thành cổ Quảng Trị - được mệnh danh là \"Mùa hè đỏ lửa\" diễn ra vào năm nào?",
     "answers": [
-      "Sông Trường Giang",
-      "Sông Hoàng Hà",
-      "Sông Mê Công",
-      "Sông Ấn"
+      "1968",
+      "1971",
+      "1972",
+      "1960"
     ],
-    "correct": 0,
+    "correct": 2,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Ngày 16 tháng 8 năm 1945, Tổng bộ Việt Minh triệu tập Đại hội quốc dân tại Tuyên Quang cử ra Ủy ban dân tộc giải phóng tức Chính phủ lâm thời, do Hồ Chí Minh làm chủ tịch. Hãy cho biết địa điểm cụ thể diễn ra Đại hội:",
+    "question": "Who raised the flag of the National Liberation Front of South Viet Nam on the roof of Independence Palace on April 30, 1975?",
     "answers": [
-      "Đình Tân Trào",
-      "Đình Hồng Thái",
-      "Lán Nà Lừa",
-      "Hang Bòng"
+      "Vũ Đăng Toàn",
+      "Bùi Quang Thận",
+      "Ngô Sỹ Nguyên",
+      "Bùi Thế Dũng"
     ],
-    "correct": 0,
+    "correct": 1,
     "score": 20,
-    "time":15
+    "time": 15
   },
   {
-    "question": "Với lòng yêu nước nồng nàn và căm thù giặc Mỹ cao độ, vào năm 1964 đã có một phong trào mà chỉ sau một tháng phát động thì có 1,5 triệu thanh niên, học sinh, sinh viên đăng ký tham gia. Đó là phong trào gì?",
+    "question": "Loài trái cây nào nào được ví như \"nữ hoàng\" của nông sản Ninh Thuận?",
     "answers": [
-      "Phong trào “5 xung phong”",
-      "Phong trào “2 tốt”",
-      "Phong trào “3 sẵn sàng”",
-      "Phong trào Sinh viên 5 tốt"
+      "Táo xanh",
+      "Thanh long",
+      "Nho",
+      "Măng cụt"
     ],
     "correct": 2,
     "score": 20,
-    "time":15
+    "time": 15
   }
 ]

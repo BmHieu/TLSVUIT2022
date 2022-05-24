@@ -1,45 +1,45 @@
 [
   {
-    "question": "Năm 2011, nước ta kỷ niệm bao nhiêu năm ngày Bác Hồ ra đi tìm đường cứu nước?",
+    "question": "Trong bàn phím QWERTY, khi nhấn tổ hợp phím Ctrl + 8 ta được kết quả gì?",
     "answers": [],
-    "correct": "100",
+    "correct": "*",
     "score": 10,
     "time": 10,
     "type": "statement"
   },
   {
-    "question": "Giải quần vợt nào có lịch sử lâu đời nhất thế giới?",
+    "question": "\"Ngũ Tinh Hồng Kỳ\" là quốc kỳ của quốc gia nào?",
     "answers": [
-      "ATP – World Tour Finals",
-      "Davis Cup",
-      "ATP – Challenger Tour",
-      "Wimbledon"
-    ],
-    "correct": 3,
-    "score": 10,
-    "time": 10
-  },
-  {
-    "question": "Chiến thắng Điện Biên Phủ buộc Pháp phải ngồi vào bàn đàm phán công nhận chủ quyền của Việt Nam thông qua hiệp định gì?",
-    "answers": [
-      "Hiệp định Geneve",
-      "Hiệp định Paris",
-      "Hiệp định Fontainebleau",
-      "Hiệp ước Versailles"
-    ],
-    "correct": 0,
-    "score": 10,
-    "time": 10
-  },
-  {
-    "question": "Ngày 9/1/1950, Đoàn Thanh niên cứu quốc và Đoàn học sinh-sinh viên Sài Gòn - Chợ Lớn đã vận động và tổ chức hơn 2.000 HSSV và 7.000 nhân dân Sài Gòn - Chợ Lớn biểu tình đòi đảm bảo an ninh cho HSSV, trả tự do cho những sinh viên-học sinh bị bắt và mở lại trường học. Một Học sinh ưu tú đã ngã xuống trong cuộc đấu tranh này, đó là ai?",
-    "answers": [
-      "Quách Thị Trang",
-      "Trần Văn Ơn",
-      "Lê Đình Dụ",
-      "Ngô Kha"
+      "Hoa Kỳ",
+      "Trung Quốc",
+      "Triều Tiên",
+      "Việt Nam"
     ],
     "correct": 1,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "5 vòng tròn trên lá cờ Olympic tượng trưng cho điều gì?",
+    "answers": [
+      "5 màu",
+      "5 môn thể thao trong kỳ thế vận hội đầu tiên",
+      "5 châu lục",
+      "5 nền văn hóa"
+    ],
+    "correct": 2,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Huyện đảo Hoàng Sa là một trong những huyện đảo lớn của nước ta với nhiều đảo lớn nhỏ mang lại cho đất nước nhiều lợi ích cả về kinh tế và quốc phòng. Hãy cho biết huyện đảo Hoàng Sa trực thuộc tỉnh nào?",
+    "answers": [
+      "Đà Nẵng",
+      "Phú Yên",
+      "Khánh Hòa",
+      "Ninh Thuận"
+    ],
+    "correct": 0,
     "score": 10,
     "time": 10
   }

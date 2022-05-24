@@ -1,41 +1,51 @@
 [
   {
-    "question": "Ngày 8/6/2019 sắp tới là ngày kỷ niệm bao nhiêu năm thành lập trường ĐH CNTT, ĐHQG-HCM?",
-    "answers": [],
-    "correct": "13",
+    "question": "Đâu không phải là một trong những chi tiết của logo trường Đại học Công nghệ Thông tin, ĐHQG-HCM?",
+    "answers": [
+      "Hoa sen",
+      "Sóng truyền dẫn",
+      "Cánh cung",
+      "Quyển sách"
+    ],
+    "correct": 2,
     "score": 10,
     "time": 10,
     "type": "statement"
   },
   {
-    "question": "Vị tổng thống cuối cùng của chính quyền Mĩ – Ngụy, đã đầu hàng vô điều kiện khi quân ta tiến vào Dinh Độc Lập?",
+    "question": "Trong trận chung kết môn bóng đá nam SEA Games 31 tối ngày 22/5, tiền đạo nào đã ghi bàn thắng quyết định giúp đội tuyển U23 Việt Nam đánh bại đội tuyển U23 Thái Lan với tỉ số 1-0 ?",
     "answers": [
-      "Nguyễn Văn Thiệu",
-      "Ngô Đình Diệm",
-      "Dương Văn Minh",
-      "Trần Văn Hương"
+      "Lâm Mạnh Dũng",
+      "Nhâm Mạnh dũng",
+      "Nhâm Hùng Dũng",
+      "Lâm Hùng Dũng"
     ],
-    "correct": 2,
+    "correct": 1,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Điều lệ của Hội Sinh viên Việt Nam hiện nay có bao nhiêu ĐIỀU ?",
-    "answers": [],
-    "correct": "20",
+    "question": "Đới khí hậu nào nằm giữa hai vĩ tuyến 23°27'N và 66°33'N ?",
+    "answers": [
+      "Hàn đới",
+      "Ôn đới",
+      "Nhiệt đới",
+      "Hải dương đới"
+    ],
+    "correct": 1,
     "score": 10,
     "time": 10,
     "type": "statement"
   },
   {
-    "question": "Tại hội thảo giải thưởng du lịch ASEAN và lễ trao nhận giấy chứng nhận du lịch ASEAN năm 2018? Việt Nam có 3 địa danh được trao giải thưởng Thành phố du lịch sạch ASEAN đó là ?",
+    "question": "Điền vào chỗ trống:\"Nếu hai mặt phằng cắt nhau cùng song song với một đường thẳng thì ... của chúng cũng song song với đường thẳng đó.\"",
     "answers": [
-      "Huế, Đà Nẳng, Đà Lạt",
-      "Đà Nẵng, Nha Trang, Hội An",
-      "Nha Trang, Hạ Long, Vũng Tàu",
-      "Vũng Tàu, Buôn Ma Thuột, Hạ Long"
+      "Giao điểm",
+      "Đường trung tuyến",
+      "Đường trung trực",
+      "Giao tuyến"
     ],
-    "correct": 0,
+    "correct": 3,
     "score": 10,
     "time": 10
   }

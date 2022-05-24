@@ -2,9 +2,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
-    <title>Thủ lĩnh Sinh viên UIT 2019</title>
+    <title>Thủ lĩnh Sinh viên UIT 2022</title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="assets/css/controller.css"/>
+	<link rel="icon" type="image/x-icon" href="assets/images/Logo-Leader_Green.png">
 </head>
 <body>
 <div id="wrapper">
@@ -14,8 +15,8 @@
                 <a class="navbar-brand">BẢNG ĐIỀU KHIỂN</a>
             </div>
             <ul class="nav navbar-nav">
-                <li><a href="/controller.php">Câu hỏi</a></li>
-                <li class="active"><a href="/controller-config.php">Đội thi</a></li>
+                <li><a href="/TLSVUIT2022/controller.php">Câu hỏi</a></li>
+                <li class="active"><a href="/TLSVUIT2022/controller-config.php">Đội thi</a></li>
             </ul>
         </div>
     </nav>

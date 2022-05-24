@@ -1,49 +1,49 @@
 [
   {
-    "question": "Giải thưởng cao quý nào được Trung ương Hội Sinh viên trao tặng vào ngày truyền thống Học sinh, Sinh viên là gì?",
+    "question": "Hệ điều hành Windows không có phiên bản nào sau đây?",
     "answers": [
-      "Sao tháng giêng",
-      "Lý Tự Trọng",
-      "Bồ Câu Trắng",
-      "Cả 3 phương án trên"
+      " Windows 6",
+      "Windows 7",
+      "Windows 8",
+      "Windows 9"
     ],
-    "correct": 0,
+    "correct": 3,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Trong chiến dịch Điện Biên Phủ, trận đánh nào được coi là thắng trận mở màn của quân đội ta?",
+    "question": "\"Đất nước của những hoa hậu\" là biệt danh của quốc gia nào?",
     "answers": [
-      "Trận đồi Him Lam",
-      "Trận đồi Độc Lập",
-      "Trận đồi A1",
-      "Trận Bản Kéo"
+      "Nga",
+      "Argentina",
+      "Venezuela",
+      "Peru"
     ],
-    "correct": 0,
+    "correct": 2,
     "score": 20,
     "time": 15
   },
   {
-    "question": "Vì kích thước lớn lại được bao phủ bởi một lớp mây dày đặc chứa nước đá phản chiếu ánh sáng Mặt Trời nên từ nhiều thế kỷ trước nhiều nhà thiên văn cho đó là ngôi sao tương tự Mặt Trời. Đó là hành tinh nào ?",
+    "question": "\"Đồn là nhà, biên giới là quê hương, đồng bào các dân tộc anh em là ruột thịt\" là phương châm của cán bộ, chiến sĩ lực lượng nào trong Quân đội ta?",
     "answers": [
-      "Sao Thổ",
-      "Sao Mộc",
-      "Sao Hỏa",
-      "Sao Thiên Vương"
+      "Lực lượng Cảnh sát biển",
+      "Lực lượng Biên phòng",
+      "Lực lượng Không quân",
+      "Lực lượng Kiểm lâm"
     ],
     "correct": 1,
     "score": 20,
     "time": 15
   },
   {
-    "question": "Chiến dịch Hành trình đỏ xuyên Việt nâng cao nhận thức của người dân về hoạt động hiến máu tình nguyện cũng như truyền thông nâng cao nhận thức của cộng đồng về căn bệnh nào ?",
+    "question": "Điền vào chỗ trồng: <br> Ngày 21-6-1925, Nguyễn Ái Quốc sáng lập và trực tiếp chỉ đạo xuất bản tờ báo ...., đó là cơ quan của Hội Việt Nam Cách mạng thanh niên, chính thức đặt nền móng cho báo chí cách mạng Việt Nam.",
     "answers": [
-      "Bệnh tan máu bẩm sinh",
-      "Bệnh ung thư bạch cầu",
-      "Bệnh đa u tủy",
-      "Thiếu máu"
+      "Báo Tuổi Trẻ",
+      "Báo Thanh niên",
+      "Báo Nhân dân",
+      "Báo Cứu quốc"
     ],
-    "correct": 0,
+    "correct": 1,
     "score": 30,
     "time": 20
   }

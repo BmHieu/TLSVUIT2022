@@ -23,9 +23,6 @@
         },
         doie: {
             score: 0
-        },
-        doif: {
-            score: 0
         }
     };
 

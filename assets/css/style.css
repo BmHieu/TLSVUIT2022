@@ -190,8 +190,7 @@ body {
 #result-list li.doib,
 #result-list li.doic,
 #result-list li.doid,
-#result-list li.doie,
-#result-list li.doif {
+#result-list li.doie {
     background: url(../answer.png) no-repeat;
 }
 
@@ -281,7 +280,4 @@ body {
 }
 .polygon.doie{
     background-image: url('../images/doie.png');
-}
-.polygon.doif{
-    background-image: url('../images/doif.png');
 }

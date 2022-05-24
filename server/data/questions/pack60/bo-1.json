@@ -1,44 +1,49 @@
 [
   {
-    "question": "Hồ Chí Minh thí điểm xây dựng Mặt trận Việt Minh đầu tiên ở tỉnh nào?",
+    "question": "Tác phẩm Vợ nhặt được nhà văn Kim Lân viết trong bối cảnh lịch sử nào?",
     "answers": [
-      "Tuyên Quang ",
-      "Hà giang",
-      "Thái nguyên ",
-      "Cao Bằng"
+      "Cách mạng tháng Tám năm 1945",
+      "Chiến dịch Điện Biên Phủ năm 1954",
+      "Nạn đói khủng khiếp năm 1945",
+      "Cuộc kháng chiến chống Mỹ, cứu nước (1954 - 1975)"
     ],
-    "correct": 3,
+    "correct": 2,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Trong Đại Hội Hội sinh viên Việt Nam lần thứ X được tổ chức tại Hà Nội, đại biểu đại diện duy nhất của trường ĐH CNTT, ĐHQG-HCM là ai ? ",
+    "question": "Tay vợt cầu lông Việt Nam đầu tiên và duy nhất tính đến hiện tại từng đạt hạng 4 trên Bảng xếp hạng cầu lông thế giới là ai?",
     "answers": [
-      "Đ/c Phan Thuỳ Dương",
-      "Đ/c Võ Minh Thiện",
-      "Đ/c Hon Sen Sen",
-      "Đ/c Trương Quốc Dũng"
+      "Phạm Cao Cường",
+      "Nguyễn Tiến Minh",
+      "Hồ Nguyễn Vinh Quang",
+      "Nguyễn Thiên Lộc"
     ],
-    "correct": 0,
+    "correct": 1,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Ngày 8/4/1975 một phi công của quân đội Sài Gòn phản chiến ném bom xuống Dinh Độc Lập. Hãy cho biết họ tên đầy đủ của người phi công này?",
+    "question": "Kết quả thực thư của đoạn chương trình sau đây <br> #include &#60;iostream&#62; <br> using namespace std; <br> int main(){ <br> int x = 0; <br> switch(x){ <br> case 1: cout<<\"One\"; <br> case 0: cout<<\"Zero\" ; <br> case 2: cout<<\"Hello World\"; <br> }<br>return 0; <br> }",
     "answers": [
-      "Phạm Tuân",
-      "Trần Đại Nghĩa",
-      "Nguyễn Văn Bảy",
-      "Nguyễn Thành Trung"
+      "One",
+      "Zero",
+      "Hello World",
+      "ZeroHello World"
     ],
     "correct": 3,
     "score": 20,
     "time": 15
   },
   {
-    "question": "Khu vực thương mại tự do ASEAN được viết tắt là:",
-    "answers": [],
-    "correct": "AFTA",
+    "question": "\"Thần tốc, thần tốc hơn nữa, táo bạo, táo bạo hơn nữa, tranh thủ từng phút, từng giờ, xốc tới mặt trận, giải phóng miền Nam, quyết chiến và toàn thắng!\"Câu nói nổi tiếng trên của nhân vật nào?",
+    "answers": [
+      "Đại tướng Võ Nguyên Giáp",
+      "Đại tướng Nguyễn Chí Thanh",
+      "Chủ tịch Hồ Chí Minh",
+      "Tổng Bí thư Lê Duẩn"
+    ],
+    "correct": 0,
     "score": 20,
     "time": 15,
     "type": "statement"

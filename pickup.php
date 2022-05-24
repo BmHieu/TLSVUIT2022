@@ -7,9 +7,10 @@ $teamData = json_decode(file_get_contents('server/data/team.json'));
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
-    <title>Thủ lĩnh Sinh viên UIT 2019</title>
+    <title>Thủ lĩnh Sinh viên UIT 2022</title>
     <link rel="stylesheet" href="assets/css/style.css"/>
     <link rel="stylesheet" href="assets/css/hexagon.css"/>
+	<link rel="icon" type="image/x-icon" href="assets/images/Logo-Leader_Green.png">
 </head>
 <body>
 <ul class="hexagon-grid-container">

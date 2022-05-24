@@ -1,45 +1,45 @@
 [
   {
-    "question": "Thủ đô hiện tại của đất nước Myanmar là gì?",
+    "question": " Fill in the blank: \nH'Hen Nie is the first ... ... in Viet Nam to win Miss Universe Viet Nam 2017. She represented Viet Nam to attend Miss Universe 2018 in Thailand and managed to enter the top 5 final.",
     "answers": [
-      "Yangon",
-      "Mandalay",
-      "Manila",
-      "Naypyidaw"
+      "ethnic minority",
+      "ethnic majority",
+      "social minority",
+      "social majority"
     ],
-    "correct": 3,
+    "correct": 0,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Trong phong trào SV5T trường Đại học CNTT, ĐHQG-HCM năm 2018, một trong những tiêu chuẩn để đạt được tiêu chí tình nguyện tốt đó là tham gia ít nhất bao nhiêu ngày tình nguyện do các cơ sở Đoàn Hội tổ chức trong năm học?",
+    "question": "Ngân với điều kiện nhà không thiếu gì ngoài tiền nên trong ví cô ta luôn tồn tại tất cả các loại tờ tiền giấy và polymer hiện đang lưu hành tại Việt Nam, mỗi loại 1 tờ, từ mệnh giá 1000đ trở lên. Hôm nay vì đi chơi với bạn trai nên Ngân đã tiêu hết 72.000đ và còn lại 6 tờ tiền trong ví. Hỏi Ngân đã tiêu bao nhiêu loại tờ tiền ?",
     "answers": [],
-    "correct": "5",
+    "correct": "3",
     "score": 10,
     "time": 10,
     "type": "statement"
   },
   {
-    "question": "Điền vào chỗ còn thiếu: Trong chiến dịch Hồ Chí Minh, bộ chỉ huy đã chọn 5 mục tiêu lớn nhất để tiến công. Đó là Dinh độc lập, Bộ tổng tham mưu Ngụy, Biệt khu thủ đô, Sân bay Tân Sơn Nhất và ...",
+    "question": "\"Đế quốc mặt trời không bao giờ lặn\" được dùng để miêu tả đất nước nào ở thế kỷ 19 ?",
     "answers": [
-      "Tổng Nha Cảnh sát",
-      "Tổng kho Long Bình",
-      "Cục An Ninh Quân Đội",
-      "Đại sứ quán Mỹ"
+      "Anh",
+      "Pháp",
+      "Đức",
+      "Mỹ"
     ],
     "correct": 0,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Điền vào chỗ còn thiếu:</br>Hội nghị đại biểu Hội Sinh viên toàn quốc (7/1985) đã thông qua bản Điều lệ Hội trong điều kiện mới và quyết định đổi tên .............. thành Hội Sinh viên Việt Nam",
+    "question": "Người ta thường bơm khí nào vào trong các túi bim bim để tạo độ căng phồng và hỗ trợ bảo quản sản phẩm",
     "answers": [
-      "Hội Liên hiệp Sinh viên Việt Nam",
-      "Hội Sinh viên Việt Nam Cứu Quốc",
-      "Hội Liên hiệp Thanh niên Việt Nam",
-      "Hội Sinh Viên Cộng Sản Việt Nam"
+      "H2",
+      "O2",
+      "N2",
+      "CO2"
     ],
-    "correct": 0,
+    "correct": 2,
     "score": 10,
     "time": 10
   }

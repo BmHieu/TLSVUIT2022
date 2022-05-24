@@ -1,45 +1,45 @@
 [
   {
-    "question": "Ở loài động vật nhai lại, loại dạ dày có kích thướt lớn nhất là gì?",
+    "question": "Quốc gia nào đang nắm giữ kỷ lục về số Huy chương vàng đạt được nhiều nhất trong một kỳ SEA Games?",
     "answers": [
-      "Dạ tổ ong",
-      "Dạ cỏ",
-      "Dạ lá sách",
-      "Dạ múi khế"
+      "Thái Lan",
+      "Indonesia",
+      "Việt Nam",
+      "Malaysia"
     ],
-    "correct": 1,
+    "correct": 2,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Anh hùng Núp là người dân tộc nào?",
+    "question": "Cuộc đua 3 môn phối hợp Ironman có 3 môn gồm bơi, đạp xe, chạy bộ được sắp xếp theo thứ tự nào sau đây?",
     "answers": [
-      "Ê đê",
-      "Ba na",
-      "Gia Rai",
-      "Xơ Đăng"
+      "Bơi – đạp xe – chạy bộ",
+      "Đạp xe – bơi – chạy bộ",
+      "Đạp xe – chạy bộ - bơi",
+      "Bơi – chạy bộ - đạp xe"
     ],
-    "correct": 1,
+    "correct": 0,
     "score": 20,
     "time": 15
   },
   {
-    "question": "It is the name given to the United Kingdom’s departure from the European Union. What is it?",
+    "question": "Số thập phân 13 có biểu diễn trong hệ nhị phân là?",
     "answers": [],
-    "correct": "BREXIT",
+    "correct": "1101",
     "score": 20,
     "time": 15,
     "type": "statement"
   },
   {
-    "question": "Đại hội đại biểu toàn quốc lần thứ II của Đảng đã ra quyết định quan trọng nào?",
+    "question": "Năm 2020 đã tổ chức thành công Đại hội Đại biểu Hội Sinh viên TP. Hồ Chí Minh lần thứ VI, nhiệm kỳ 2020 - 2023. Hãy cho biết, đâu là khẩu hiệu hành động của Hội Sinh viên TP. Hồ Chí Minh nói riêng và của sinh viên TP. Hồ Chí Minh nói chung được thông qua trong Đại hội?",
     "answers": [
-      "Thành lập mặt trận giải phóng dân tộc riêng để lãnh đạo cuộc đấu tranh cách mạng ở mỗi nước Đông Dương",
-      "Thành lập liên minh nhân dân Việt – Miên - Lào",
-      "Tách Đảng cộng sản Đông Dương thành 3 đảng riêng để chỉ đạo cách mạng ở mỗi nước Đông Dương",
-      "Xây dựng ở Cam – pu – chia, Lào mỗi nước mỗi Đảng riêng phù hợp với điều kiện cụ thể để lãnh đạo cách mạng mỗi nước đến thắng lợi"
+      "Sinh viên Thành phố Hồ Chí Minh Bản lĩnh - Sáng tạo - Khát vọng - Hội nhập - Phát triển",
+      "Sinh viên Thành phố Hồ Chí Minh Bản lĩnh - Sáng tạo - Bức phá - Hội nhập - Phát triển",
+      "Sinh viên Thành phố Hồ Chí Minh Bức phá - Bản lĩnh - Tiên phòng - Hội nhập - Vững bước",
+      "Sinh viên Thành phố Hồ Chí Minh Tiên phong - Vững bước - Đoàn kết - Hội nhập - Phát triển"
     ],
-    "correct": 2,
+    "correct": 0,
     "score": 30,
     "time": 20
   }

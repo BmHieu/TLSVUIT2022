@@ -1,49 +1,44 @@
 [
   {
-    "question": "Tác phẩm Bình Ngô đại cáo được viết sau thắng lợi của cuộc khởi nghĩa nào sau đây?",
+    "question": "Chức năng chính của Microsoft Outlook là gì?",
     "answers": [
-      "Chống quân Minh xâm lược",
-      "Chống quân Thanh xâm lược",
-      "Chống quân Tống xâm lược",
-      "Chống quân Hán xâm lược"
-    ],
-    "correct": 0,
-    "score": 10,
-    "time": 10
-  },
-  {
-    "question": "Chủ đề Công tác Hội năm học 2018-2019 là gì?",
-    "answers": [
-      "Năm sinh viên tình nguyện",
-      "Năm sinh viên 5 tốt",
-      "Nâng cao chất lượng tổ chức Hội sinh viên Việt Nam",
-      "Năm Sinh viên sáng tạo"
+      "Duyệt web",
+      "Xử lý văn bảng",
+      "Thiết kế đồ họa",
+      "Email"
     ],
     "correct": 3,
     "score": 10,
     "time": 10
   },
   {
-    "question": "Chiếc máy tính điện tử đầu tiên có tên gọi là:",
+    "question": "Berlin, Bandar Seri Begawan, Naypyidaw, Kuala Lumpur. Đâu không là tên thủ đô của các quốc gia thuộc ASEAN ?                                ",
     "answers": [
-      "Bàn tính",
-      "Pascaline",
-      "ENIAC",
-      "Mark I"
+      "Berlin",
+      "Bandar Seri Begawan",
+      "Naypyidaw",
+      "Kuala Lumpur"
     ],
-    "correct": 2,
+    "correct": 0,
+    "score": 10,
+    "time": 10
+  },
+  {
+    "question": "Đại học Quốc gia TP.HCM được thành lập vào năm nào?",
+    "answers": [],
+    "correct": "1995",
     "score": 20,
     "time": 15
   },
   {
-    "question": "Ngay sau khi quyết định chọn chiến dịch Điện Biên Phủ là trận quyết chiến, chiến lược, ban đầu, Trung Ương Đảng đã xác đinh phương châm:",
+    "question": "Trong thời kỳ kháng chiến chống Mỹ cứu nước, Đoàn ta dấy lên một phong trào thanh niên tình nguyện ra chiến trường cứu nước. Đó là phong trào gì?",
     "answers": [
-      "Đánh chắc, tiến chắc",
-      "Đánh nhanh, thắng nhanh",
-      "Chắc thắng mới đánh, không chắc thắng không đánh",
-      "Tất cả các phương án đều sai"
+      "Thanh niên lập thân kiến quốc",
+      "Thanh niên tình nguyện",
+      "Thanh niên xung kích",
+      "Thanh niên xung phong"
     ],
-    "correct": 1,
+    "correct": 3,
     "score": 20,
     "time": 15
   }

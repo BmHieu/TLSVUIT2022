@@ -3,20 +3,21 @@ require_once 'server/helper.php';
 $userData = Helper::getUserData();
 $isLoggedIn = $userData !== false;
 $names = array(
-	'doia' => 'Hữu Khang',
-	'doib' => 'Thành Trung',
-	'doic' => 'Minh Hiếu',
-	'doid' => 'Thảo Tiên',
-	'doie' => 'Ngọc Khánh',
-	'doif' => 'Ngọc Trân',
+	'doia' => 'Ngọc Nga',
+	'doib' => 'Thùy Trang',
+	'doic' => 'Gia Khang',
+	'doid' => 'Thành Thắng',
+	'doie' => 'Gia Hiếu',
 );
 ?>
 <html>
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
-	<title>Thủ lĩnh sinh viên UIT 2019</title>
+	<title>Thủ lĩnh sinh viên UIT 2022</title>
 	<link rel="stylesheet" href="assets/css/client.css" />
 	<link rel="stylesheet" href="assets/css/bootstrap4.min.css" />
+	<link rel="icon" type="image/x-icon" href="assets/images/Logo-Leader_Green.png">
+
 </head>
 <body>
 <div class="header">
