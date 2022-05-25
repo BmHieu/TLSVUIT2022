@@ -28,7 +28,8 @@
     "answers": [],
     "correct": "Hiếu",
     "score": 20,
-    "time": 15
+    "time": 15,
+    "type": "statement"
   },
   {
     "question": "Hãy cho biết kết quả của đoạn code sau?<br> #include &#60;iostream&#62;   <br>using namespace std;    <br>int main(){      <br>char ch1{75};       <br>cout << ch1;      <br>    return 0;      <br>}",

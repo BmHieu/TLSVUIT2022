@@ -21,8 +21,7 @@
     ],
     "correct": 0,
     "score": 20,
-    "time": 15,
-    "type": "statement"
+    "time": 15
   },
   {
     "question": "Which bridge in Viet Nam was admired by The Guardian as \"The world's most impressive pedestrians' bridge\" in 2018?",
@@ -41,6 +40,7 @@
     "answers": [],
     "correct": "21",
     "score": 30,
-    "time": 20
+    "time": 20,
+    "type": "statement"
   }
 ]

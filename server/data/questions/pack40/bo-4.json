@@ -33,8 +33,7 @@
     ],
     "correct": 2,
     "score": 10,
-    "time": 10,
-    "type": "statement"
+    "time": 10
   },
   {
     "question": "Tulip là quốc hoa của đất nước nào?",
@@ -46,7 +45,6 @@
     ],
     "correct": 1,
     "score": 10,
-    "time": 10,
-    "type": "statement"
+    "time": 10
   }
 ]
