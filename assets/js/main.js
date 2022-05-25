@@ -1,5 +1,5 @@
 (function (Main) {
-    Main.baseUrl = '/tlsv2019';
+    Main.baseUrl = '/TLSVUIT2022';
     Main.counter = Main.DEFAULT_COUNTER;
     Main.intervalCountdown = false;
     Main.tickingSound = new Audio(Main.baseUrl + '/assets/sounds/ticking.mp3');
